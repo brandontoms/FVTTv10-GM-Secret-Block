@@ -1,0 +1,25 @@
+{
+    "id": "FVTTv10-GM-Secret-Block",
+    "title": "FVTTv10 GM Secret Block",
+    "description": "Create text blocks that only the GM can see",
+    "authors": [
+      {
+      "name": "Brandon Toms"
+      }
+    ],
+    "scripts": [
+    ],
+    "styles": [
+    ],
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "languages/en.json"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10"
+    }
+}
