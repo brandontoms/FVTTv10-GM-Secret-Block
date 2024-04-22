@@ -8,15 +8,10 @@
       }
     ],
     "scripts": [
+      "scripts/gm-secret.js"
     ],
     "styles": [
-    ],
-    "languages": [
-        {
-          "lang": "en",
-          "name": "English",
-          "path": "languages/en.json"
-        }
+      "styles/gm-secret.css"
     ],
     "version": "1.0.0",
     "compatibility": {
